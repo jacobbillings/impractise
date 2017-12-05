@@ -1,0 +1,15 @@
+audioFiles=[
+{filename: "banjo", note:60},
+{filename: "clavinet", note:60},
+{filename: "hooknows", note:60},
+{filename: "hoverboard", note:60, volume:0.5},
+{filename: "hurtsmyears", note:60, volume: 0.5},
+{filename: "ohyeahharp", note:60},
+{filename: "palmmute", note:60},
+{filename: "shocking", note:60, volume:0.2},
+{filename: "snapster", note:60},
+{filename: "squarebaby", note:60, volume:0.3},
+{filename: "steeldrum", note:60},
+{filename: "synthpiano", note:60, volume:0.7},
+{filename: "tickbell", note:60},
+{filename: "honkytonk", note:60, volume:1}];
